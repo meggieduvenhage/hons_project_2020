@@ -1,0 +1,24 @@
+PLINK v1.90b6.18 64-bit (16 Jun 2020)
+Options in effect:
+  --bfile output/HLA
+  --freq
+  --out output/HLA.population.freq
+  --within output/1K.populations.cluster.dat
+
+Hostname: n01.core.wits.ac.za
+Working directory: /home/phelelani/projects/megan
+Start time: Wed Aug 19 18:51:27 2020
+
+Random number seed: 1597855887
+72267 MB RAM detected; reserving 36133 MB for main workspace.
+1062 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to output/HLA.population.freq.nosex .
+--within: 26 clusters loaded, covering a total of 2504 people.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+--freq: Cluster-stratified allele frequencies (founders only) written to
+output/HLA.population.freq.frq.strat .
+
+End time: Wed Aug 19 18:51:27 2020
