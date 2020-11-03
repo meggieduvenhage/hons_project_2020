@@ -1,0 +1,54 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Web-based version check ( --noweb to skip )
+Connecting to web...  failed connection
+
+Problem connecting to web
+
+Writing this text to log file [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\Missingness.log ]
+Analysis started: Tue Aug 25 21:26:51 2020
+
+Options in effect:
+	--geno 0.1
+	--mind 0.05
+	--bfile C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE
+	--missing
+	--out C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\Missingness
+	--gplink
+
+Reading map (extended format) from [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE.bim ] 
+13101 markers to be included from [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE.bim ]
+Reading pedigree information from [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE.fam ] 
+2504 individuals read from [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 2504 missing
+0 males, 0 females, and 2504 of unspecified sex
+Warning, found 2504 individuals with ambiguous sex codes
+These individuals will be set to missing ( or use --allow-no-sex )
+Writing list of these individuals to [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\Missingness.nosex ]
+Reading genotype bitfile from [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\RERE.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Before frequency and genotyping pruning, there are 13101 SNPs
+2504 founders and 0 non-founders found
+0 of 2504 individuals removed for low genotyping ( MIND > 0.05 )
+Writing individual missingness information to [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\Missingness.imiss ] 
+Writing locus missingness information to [ C:\Users\meggi\OneDrive\Desktop\Project\Data\Final Data\RERE\Missingness.lmiss ] 
+Total genotyping rate in remaining individuals is 1
+0 SNPs failed missingness test ( GENO > 0.1 )
+0 SNPs failed frequency test ( MAF < 0 )
+After frequency and genotyping pruning, there are 13101 SNPs
+After filtering, 0 cases, 0 controls and 2504 missing
+After filtering, 0 males, 0 females, and 2504 of unspecified sex
+
+Analysis finished: Tue Aug 25 21:26:54 2020
+
