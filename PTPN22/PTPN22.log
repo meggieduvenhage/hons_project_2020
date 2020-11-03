@@ -1,0 +1,16 @@
+PLINK v1.90b6.18 64-bit (16 Jun 2020)
+Options in effect:
+  --file output/PTPN22
+  --out output/PTPN22
+
+Hostname: n01.core.wits.ac.za
+Working directory: /home/phelelani/projects/megan
+Start time: Wed Aug 19 18:51:16 2020
+
+Random number seed: 1597855876
+72267 MB RAM detected; reserving 36133 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (1565 variants, 2504 people).
+--file: output/PTPN22.bed + output/PTPN22.bim + output/PTPN22.fam written.
+
+End time: Wed Aug 19 18:51:16 2020
